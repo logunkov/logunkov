@@ -12,11 +12,11 @@
 * <p align="justify"><b>Principles</b>: ARC, OOP, POP, SOLID.</p>
 * <p align="justify"><b>Data structure</b>: UML, Design patterns, Antipatterns.</p>
 
-
 <h3 align="left">Educational projects:</h3>
 
 * [Navigation](https://github.com/logunkov/HWNavigation)
 * [ToDoList](https://github.com/logunkov/HWToDoList)
+* [Teamwork: ToDoList](https://github.com/IcemanEATeam/TodoList/tree/develop)
 
 <h3 align="left">Courses, certificates, diplomas:</h3>
 
@@ -42,8 +42,4 @@
 
 <!---
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=logunkov&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="swift" width="40" height="40"/></a> 
-<a href="https://ru.wikipedia.org/wiki/Bash" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="git" width="40" height="40"/></a>
 -->
