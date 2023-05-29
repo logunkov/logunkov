@@ -17,7 +17,6 @@
 * [Navigation](https://github.com/logunkov/HWNavigation)
 * [TodoList](https://github.com/logunkov/HWTodoList)
 * [Teamwork: TodoList](https://github.com/IcemanEATeam/TodoList/tree/develop)
-* [Teamwork: MdEditor](https://github.com/IcemanEATeam/MdEditor/tree/develop)
 
 <h3 align="left">Courses, certificates, diplomas:</h3>
 
