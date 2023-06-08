@@ -3,7 +3,7 @@
 <h3 align="left">Professional skills:</h3>
 
 * <p align="justify"><b>Interface</b>: Storyboard, UIKit.</p> <!---SwiftU, iOS HIG -->
-* <p align="justify"><b>Architecture</b>: MVC, MVP, MVVM, Clean Swift.</p>
+* <p align="justify"><b>Architecture</b>: MVx, Clean Swift.</p>
 * <p align="justify"><b>Database</b>: UserDefaults, PlistFile, CoreData, Realm.</p>
 * <p align="justify"><b>Network</b>: URLSession, Alamofire.</p>
 <!---GCD -->
@@ -36,10 +36,10 @@
 <a href="mailto:logunkovkn@yandex.ru" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/yandex/yandex-icon.svg" alt="logunkovkn" height="40" width="40" /></a>
 </p>
 
+<!---
 <h3 align="left">Trophies:</h3>
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=logunkov)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!---
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=logunkov&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 -->
