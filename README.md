@@ -21,7 +21,7 @@
 <h3 align="left">Courses, certificates, diplomas:</h3>
 
 * [2023, Netology. iOS-development for beginners](https://netology.ru/backend/api/user/programs/31018/pdf_certificate)
-* 2023, SwiftBook. Middle iOS-Developer (31.01.2023 - 08.06.2023)
+* [2023, SwiftBook. Middle iOS-Developer](https://swiftbook.org/professions/71/certificate/10039)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
