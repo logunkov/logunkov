@@ -18,6 +18,10 @@
 * [TodoList](https://github.com/logunkov/HWTodoList)
 * [Teamwork: TodoList](https://github.com/IcemanEATeam/TodoList/tree/develop)
 
+<h3 align="left">Test projects:</h3>
+
+* [Tanuki](https://github.com/logunkov/Tanuki)
+
 <h3 align="left">Courses, certificates, diplomas:</h3>
 
 * [2023, Netology. iOS-development for beginners](https://netology.ru/backend/api/user/programs/31018/pdf_certificate)
