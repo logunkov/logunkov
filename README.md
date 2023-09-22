@@ -21,6 +21,7 @@
 <h3 align="left">Test projects:</h3>
 
 * [Tanuki](https://github.com/logunkov/Tanuki)
+* [SletatRu](https://github.com/logunkov/SletatRu)
 
 <h3 align="left">Courses, certificates, diplomas:</h3>
 
