@@ -22,6 +22,7 @@
 
 * [Tanuki](https://github.com/logunkov/Tanuki)
 * [SletatRu](https://github.com/logunkov/SletatRu)
+* [Gismeteo](https://github.com/logunkov/Gismeteo)
 
 <h3 align="left">Courses, certificates, diplomas:</h3>
 
